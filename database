@@ -1,0 +1,26 @@
+General benifits of using metrics and logs.
+
+- A reduction in the time and resources spent hunting down hidden issues in the database and IT infrastructure.
+- Ability for troubleshoot performance problems on a proactive basis to application development process.
+- We can get top Insights into whether and how performance could be improved, such as - performance query, compute power insights etc.
+- Reactive monitoring might be employed for performance troubleshooting, optimising etc..
+
+-------Below are the metrics that can help in application development process to manage databases---------
+
+Queries: To ensure a high level of overall performance, it’s important to monitor the performance of the queries themselves. 
+
+Capacity/Compute issues: Database issues can be caused by issues with the hardware, like lagging CPU speed or insufficient CPUs, slow disks, misconfigured disks, full disks, and lack of memory.
+
+Measure throughput: Measuring and comparing throughput means staying on top of throughput metrics, like the number of connections per second and replication latency.
+
+Monitor database logs: Database logs are key to proactive monitoring, because they contain critical information.
+
+
+
+
+
+
+
+
+Just for basic information. 
+https://docs.microsoft.com/en-us/azure/azure-sql/database/monitor-tune-overview
